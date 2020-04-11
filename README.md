@@ -1,1 +1,0 @@
-Templates used in prod environment
