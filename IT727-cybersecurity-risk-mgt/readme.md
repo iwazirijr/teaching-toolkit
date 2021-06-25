@@ -6,5 +6,5 @@ These are the resources I use to teach IT727-Cybersecurity Management (based on 
 
 You are free to use, redistribute, and alter materials created/authored by me. For resources authored by others - please refer to their respective license.
 
-Feel free to add, recommend, or refer teaching resources you think might be helpful towards teaching this classes.
+Please add, recommend, or refer teaching resources you think might be helpful towards teaching this classes.
 
