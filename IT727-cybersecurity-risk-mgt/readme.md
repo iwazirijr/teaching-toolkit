@@ -1,6 +1,6 @@
 # Teaching Resources
 
-These are the resources I use to teach IT727-Cybersecurity Management (based on NIST and ISACA frameworks) graduate classes at Marymount University. The lecture videos are also available on Youtube here:
+These are the resources I use to teach IT727-Cybersecurity Management (based on NIST and ISACA frameworks) graduate classes at Marymount University. The lecture videos are also available on YouTube here:
 
 ## License
 
